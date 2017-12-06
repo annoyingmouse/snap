@@ -1,0 +1,23 @@
+#chart {
+  width: 600px;
+  height: 400px;
+  background-color: #f7f7f7;
+  margin: 25px auto;
+}
+
+line {
+  stroke: rgb(212, 212, 212);
+  stroke-width: 1px;
+  shape-rendering: crispEdges;
+}
+
+circle {
+  stroke: rgb(95, 176, 228);
+  stroke-width: 2;
+  fill: rgba(205, 246, 255, 0.3);
+}
+
+.active {
+  stroke: #000;
+  stroke-width: 2px;
+}
