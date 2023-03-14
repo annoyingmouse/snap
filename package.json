@@ -10,10 +10,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "babel-core": "^6.26.0",
-    "babel-preset-env": "^1.6.1",
-    "gulp": "^3.9.1",
-    "gulp-babel": "^7.0.0",
-    "gulp-sass": "^3.1.0"
-  }
+    "@babel/core": "^7.21.3",
+    "@babel/preset-env": "^7.20.2",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.59.2"
+  },
+  "presets": ["@babel/preset-env"]
 }
