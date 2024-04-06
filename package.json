@@ -8,14 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "@babel/core": "^7.21.3",
-    "@babel/preset-env": "^7.20.2",
-    "gulp": "^4.0.2",
-    "gulp-babel": "^8.0.0",
-    "gulp-sass": "^5.1.0",
-    "sass": "^1.59.2"
-  },
-  "presets": ["@babel/preset-env"]
+  "license": "ISC"
 }
